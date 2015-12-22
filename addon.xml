@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.ares-projetc" name="Ares-Project" version="1.0" provider-name="Ares Team">
+<addon id="repository.ares-project" name="Ares-Project" version="1.0" provider-name="Ares Team">
 	<extension point="xbmc.addon.repository" name="Ares-Project Repository">
         <info compressed="false">https://raw.githubusercontent.com/aresteam/vault/master/addon.xml</info>
 	<checksum>https://raw.githubusercontent.com/aresteam/vault/master/addon.xml.md5</checksum>
